@@ -7,5 +7,5 @@
 
 ### 📬 Get in Touch
 
-- Site: [www.matthewphillips.io][site]
+- Site: [site](www.matthewphillips.io)
 - E-mail: matthew.t.phillips@protonmail.com
