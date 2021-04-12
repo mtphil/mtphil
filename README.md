@@ -2,7 +2,7 @@
 # Hello, I'm Matthew Phillips 👋
 
 - 🔭 I’m a senior software engineer at **Clutch Technologies**, using **Go**, **Scala** and **TypeScript**
-- 🌱 I’m currently learning **Rust** and **Kubernetes security**
+- 🌱 I’m currently learning about **Rust** and **Kubernetes pentesting**
 
 ### 📬 Get in Touch
 
